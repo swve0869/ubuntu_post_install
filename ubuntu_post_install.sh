@@ -97,6 +97,7 @@ flatpak install flathub org.mozilla.firefox
 flatpak install flathub com.discordapp.Discord -y
 flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub org.chromium.Chromium -y
+sudo apt install steam -y
 
 sudo snap install --classic code # or code-insiders
 snap install spotify
